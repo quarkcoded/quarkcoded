@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theMetaHack
+- 👋 Hi, I’m @quarkcoded
 - 👀 I’m interested in coding and math
 - 🌱 I’m currently learning ML and C++
 - 💞️
